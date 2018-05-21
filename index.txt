@@ -15,7 +15,7 @@
 		<center><img src="Malachi Alexis.jpg"/>
 		<p><font size = "7">Malachi Alexis</p><p> Chairman/CEO</p> </center>
 		<br>
-		<center><img src="itme.jpg"alt="itme" height="300" width="300"/>
+		<center><img src="itme.jpg"alt="itme" height="420" width="420"/>
 		<p><font size = "7">Seon Campbell</p><p> Deputy Chairman/Chief Operation Officer</p> </center>
 		
 	</body>
